@@ -1,6 +1,9 @@
-# dashcamviewer
+# pyDashcamViewer
 Play dashcamvideos and show their gps position in realtime with python
 <br>
+<br>
+<img src="https://github.com/Cynobs-repo/pydashcamviewer/blob/main/pyDashcamview_image.png" width="600">
+<br><br>
 
 > [!IMPORTANT]
 > Only works with **VIOFO A229 Plus** dashcam mp4 video files. 
