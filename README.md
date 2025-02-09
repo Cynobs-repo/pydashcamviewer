@@ -16,7 +16,8 @@ If you have a completely different cam and it doesn't work you can send me a vid
 ✅ designed for windows (10/11) <br>
 ✅ standalone package available - no install needed <br>
 ✅ GPS position is displayed on openstreetmaps synchronized with the video file <br>
-
+<br>
+<br>
 ## How to install and setup
 
 ### the lazy way
