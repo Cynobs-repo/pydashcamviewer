@@ -38,7 +38,7 @@ Open the WPy64-3680 folder and start the WinPython Command Prompt.exe
 
 in the Command prompt window type:
 ```
-python.bat -m pip install -upgrade pip
+python.bat -m pip install --upgrade pip
 ```
 
 to update the old pip package in winpython. If you do not do this, the installation of opencv will fail.
