@@ -25,6 +25,23 @@ If you have a completely different cam and it doesn't work you can send me a vid
 Download all the pyDashcamplayer.7zip files and unzip them. 
 <br>
 Open the folder pyDashcamplayer and start the exe of the same name in it.
+<br>
+
+if your dashcam use daylight saving time the script will work correctly. 
+If you dont have this feature in your cam enabled open the file:
+<br>
+<br>
+pyDashcamViewer\python-3.6.8.amd64\pydashcam\run.py
+<br>
+<br>
+and change the line number 21
+```
+use_daylight_saving_time = True
+```
+to
+```
+use_daylight_saving_time = False
+```
 
 <br>
 
