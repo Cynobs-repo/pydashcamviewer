@@ -21,7 +21,7 @@ If you have a completely different cam and it doesn't work you can send me a vid
 
 ### the lazy way
 
-Download the pyDashcamplayer_aio.zip file and unzip it. 
+Download all the pyDashcamplayer.7zip files and unzip them. 
 <br>
 Open the folder pyDashcamplayer and start the exe of the same name in it.
 
